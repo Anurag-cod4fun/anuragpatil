@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anuragpatil/static/css/main.87cba562.css",
-    "main.js": "/anuragpatil/static/js/main.dcf88d72.js",
+    "main.css": "/anuragpatil/static/css/main.133006e9.css",
+    "main.js": "/anuragpatil/static/js/main.30996057.js",
     "static/js/787.521f1a1c.chunk.js": "/anuragpatil/static/js/787.521f1a1c.chunk.js",
     "static/media/three.svg": "/anuragpatil/static/media/three.d4f751d1b799f45195a256c314211dfe.svg",
     "static/media/placeholder.png": "/anuragpatil/static/media/placeholder.3fcbbdcd05f3e458d129.png",
@@ -138,12 +138,12 @@
     "static/media/vue.svg": "/anuragpatil/static/media/vue.47bdfb5a7a54d8ade2aa4c61d5148668.svg",
     "static/media/vuetifyjs.svg": "/anuragpatil/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/anuragpatil/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
-    "main.87cba562.css.map": "/anuragpatil/static/css/main.87cba562.css.map",
-    "main.dcf88d72.js.map": "/anuragpatil/static/js/main.dcf88d72.js.map",
+    "main.133006e9.css.map": "/anuragpatil/static/css/main.133006e9.css.map",
+    "main.30996057.js.map": "/anuragpatil/static/js/main.30996057.js.map",
     "787.521f1a1c.chunk.js.map": "/anuragpatil/static/js/787.521f1a1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87cba562.css",
-    "static/js/main.dcf88d72.js"
+    "static/css/main.133006e9.css",
+    "static/js/main.30996057.js"
   ]
 }
