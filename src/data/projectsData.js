@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Medify - A Multi-Disease Detection Web Application',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
         tags: ['ML', 'Flask', 'CV'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/Anurag-cod4fun/Medify',
+        demo: 'https://github.com/Anurag-cod4fun/Medify',
         image: one
     },
     {
@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'YouTube Comment Analyzer',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['NLP', 'Flask'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/Anurag-cod4fun/YouTube_Comment_Analyzer',
+        demo: 'https://github.com/Anurag-cod4fun/YouTube_Comment_Analyzer',
         image: two
     },
     {
@@ -32,8 +32,8 @@ export const projectsData = [
         projectName: 'Online Voting System',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['PHP', 'HTML-CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/Anurag-cod4fun/Voting-System',
+        demo: 'https://github.com/Anurag-cod4fun/Voting-System',
         image: three
     },
     // {
